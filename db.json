@@ -1,0 +1,13 @@
+{
+   "cardItems":
+        {
+          "id": 0,
+          "diagnosisName": "질량불편형",
+          "diagnosisCount": 5,
+          "diagnosisPercentage": 95,
+          "autoCount": 4,
+          "accumulateAutoCount": 95,
+          "correctionCount": 1,
+          "accumulateCorrectionCount": 5
+        }
+}
