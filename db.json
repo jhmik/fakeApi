@@ -68,5 +68,118 @@
           "category": "기어 결함",
           "value": 128.3
         }
+      ],
+   "multiBarChartItems": [
+        {
+          "category": "1월",
+          "beltMisalignment": 40,
+          "unbalance": 55,
+          "OIS": 60,
+          "WornGear": 30
+        },
+        {
+          "category": "2월",
+          "beltMisalignment": 30,
+          "unbalance": 78,
+          "OIS": 69,
+          "WornGear": 30
+        },
+        {
+          "category": "3월",
+          "beltMisalignment": 27,
+          "unbalance": 40,
+          "OIS": 45,
+          "WornGear": 30
+        }
+      ],
+   "tableItems": [
+        {
+          "id": 0,
+          "failureMode": "Belt Misalignment",
+          "dtPmp1": "3",
+          "dtPmp2": "1",
+          "dtPmp3": "",
+          "dtPmp4": "1",
+          "dtPmp5": "",
+          "dtPmp6": "",
+          "dtPmp7": ""
+        },
+        {
+          "id": 1,
+          "failureMode": "Unbalance",
+          "dtPmp1": "",
+          "dtPmp2": "",
+          "dtPmp3": "3",
+          "dtPmp4": "",
+          "dtPmp5": "1",
+          "dtPmp6": "",
+          "dtPmp7": ""
+        },
+        {
+          "id": 2,
+          "failureMode": "Misalignment",
+          "dtPmp1": "",
+          "dtPmp2": "",
+          "dtPmp3": "",
+          "dtPmp4": "",
+          "dtPmp5": "",
+          "dtPmp6": "1",
+          "dtPmp7": "1"
+        },
+        {
+          "id": 3,
+          "failureMode": "Worn Gear",
+          "dtPmp1": "",
+          "dtPmp2": "",
+          "dtPmp3": "",
+          "dtPmp4": "",
+          "dtPmp5": "",
+          "dtPmp6": "",
+          "dtPmp7": ""
+        },
+        {
+          "id": 4,
+          "failureMode": "Structural Looseness",
+          "dtPmp1": "",
+          "dtPmp2": "",
+          "dtPmp3": "",
+          "dtPmp4": "",
+          "dtPmp5": "",
+          "dtPmp6": "",
+          "dtPmp7": ""
+        },
+        {
+          "id": 5,
+          "failureMode": "Mechanical Looseness",
+          "dtPmp1": "",
+          "dtPmp2": "",
+          "dtPmp3": "",
+          "dtPmp4": "",
+          "dtPmp5": "",
+          "dtPmp6": "",
+          "dtPmp7": ""
+        },
+        {
+          "id": 6,
+          "failureMode": "Sleeve Bearing Wear",
+          "dtPmp1": "",
+          "dtPmp2": "",
+          "dtPmp3": "",
+          "dtPmp4": "",
+          "dtPmp5": "",
+          "dtPmp6": "",
+          "dtPmp7": ""
+        },
+        {
+          "id": 7,
+          "failureMode": "BeltBlade/Vane Pass",
+          "dtPmp1": "",
+          "dtPmp2": "",
+          "dtPmp3": "",
+          "dtPmp4": "",
+          "dtPmp5": "1",
+          "dtPmp6": "",
+          "dtPmp7": ""
+        }
       ]
 }
