@@ -50,4 +50,22 @@
           "correctionCount": 0,
           "accumulateCorrectionCount": 1
         }
+      ],
+   "pieChartItems": [
+        {
+          "category": "질량불편형",
+          "value": 502.9
+        },
+        {
+          "category": "축정렬문제",
+          "value": 165.8
+        },
+        {
+          "category": "베어링손상",
+          "value": 139.9
+        },
+        {
+          "category": "기어 결함",
+          "value": 128.3
+        }
       ]
