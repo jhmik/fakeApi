@@ -1,5 +1,5 @@
 {
-   "cardItems":
+   "cardItems": [
         {
           "id": 0,
           "diagnosisName": "질량불편형",
@@ -9,5 +9,45 @@
           "accumulateAutoCount": 95,
           "correctionCount": 1,
           "accumulateCorrectionCount": 5
+        },
+        {
+          "id": 1,
+          "diagnosisName": "축정렬문제",
+          "diagnosisCount": 4,
+          "diagnosisPercentage": 80,
+          "autoCount": 4,
+          "accumulateAutoCount": 80,
+          "correctionCount": 0,
+          "accumulateCorrectionCount": 20
+        },
+        {
+          "id": 2,
+          "diagnosisName": "베어링손상",
+          "diagnosisCount": 3,
+          "diagnosisPercentage": 90,
+          "autoCount": 2,
+          "accumulateAutoCount": 45,
+          "correctionCount": 1,
+          "accumulateCorrectionCount": 5
+        },
+        {
+          "id": 3,
+          "diagnosisName": "기어 결함",
+          "diagnosisCount": 3,
+          "diagnosisPercentage": 100,
+          "autoCount": 1,
+          "accumulateAutoCount": 25,
+          "correctionCount": 0,
+          "accumulateCorrectionCount": 0
+        },
+        {
+          "id": 4,
+          "diagnosisName": "헐거움",
+          "diagnosisCount": 0,
+          "diagnosisPercentage": 90,
+          "autoCount": 0,
+          "accumulateAutoCount": 10,
+          "correctionCount": 0,
+          "accumulateCorrectionCount": 1
         }
-}
+      ]
