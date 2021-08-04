@@ -181,5 +181,165 @@
           "dtPmp6": "",
           "dtPmp7": ""
         }
+      ],
+   "ruleLists": [
+        {
+          "id": 1,
+          "label": "NCC",
+          "children": [
+            {
+              "id": 4,
+              "label": "Level two 1-1",
+              "children": [
+                {
+                  "id": 9,
+                  "label": "Level three 1-1-1"
+                },
+                {
+                  "id": 10,
+                  "label": "Level three 1-1-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "label": "C4공장",
+          "children": [
+            {
+              "id": 5,
+              "label": "Level two 2-1"
+            },
+            {
+              "id": 6,
+              "label": "Level two 2-2"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "BTX공장",
+          "children": [
+            {
+              "id": 7,
+              "label": "A",
+              "children": [
+                {
+                  "id": 11,
+                  "label": "B1-GA102A"
+                },
+                {
+                  "id": 12,
+                  "label": "B1-GA102B"
+                },
+                {
+                  "id": 13,
+                  "label": "B1-GA102CN"
+                },
+                {
+                  "id": 14,
+                  "label": "B1-GA104B"
+                },
+                {
+                  "id": 15,
+                  "label": "B1-GA113AR"
+                },
+                {
+                  "id": 16,
+                  "label": "B1-GA113BR"
+                },
+                {
+                  "id": 17,
+                  "label": "B1-GA202A"
+                },
+                {
+                  "id": 18,
+                  "label": "B1-GA202B"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "label": "B",
+              "children": [
+                {
+                  "id": 19,
+                  "label": "B2-GA312B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "label": "OCU공장",
+          "children": [
+            {
+              "id": 51,
+              "label": "O1-OA102A"
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "label": "OCU공장",
+          "children": [
+            {
+              "id": 51,
+              "label": "O1-OA102A"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "label": "SM",
+          "children": [
+            {
+              "id": 53,
+              "label": "S1-ABC"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "label": "EOEG",
+          "children": [
+            {
+              "id": 55,
+              "label": "E1-ABC"
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "label": "ARO1",
+          "children": [
+            {
+              "id": 57,
+              "label": "ARO-1"
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "label": "Splitter #1",
+          "children": [
+            {
+              "id": 59,
+              "label": "S1-SPP"
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "label": "A1-HDS",
+          "children": [
+            {
+              "id": 61,
+              "label": "HDS-001"
+            }
+          ]
+        }
       ]
 }
